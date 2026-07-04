@@ -1,0 +1,22 @@
+{
+  "name": "vale-content-marketplace",
+  "owner": {
+    "name": "Valentin Kolja Karlowski",
+    "email": "karlowskivalentin@gmail.com"
+  },
+  "metadata": {
+    "description": "Vales persoenliches Marketplace fuer sein Content-Team-Plugin.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "content-team",
+      "source": "./",
+      "description": "6 zusammenspielende Skills, die aus Vales viralen Frameworks ein hochkompetentes Content-Team bilden: Idee -> Strategie-Gate -> Key-Visual & Hook -> Skript entlang der Dopamine Ladder -> Pflicht-Audit -> fertiges Produktionsdokument. Plus Reverse-Engineering fremder Videos und ein driftgeschuetzter Lern-Loop.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Valentin Kolja Karlowski"
+      }
+    }
+  ]
+}
