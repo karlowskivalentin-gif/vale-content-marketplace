@@ -1,0 +1,11 @@
+{
+  "name": "content-team",
+  "version": "1.0.0",
+  "description": "Vales virales Content-Team: 6 zusammenspielende Skills (Regisseur, Strategist, Hook-Architekt, Story-Architekt, Script-Doctor, Performance-Analyst), die aus bewaehrten Frameworks (6 Hook-Archetypen, Dopamine Ladder, Algorithmus-Strategie) ein System bauen, das weiss, was ein viral gehendes und konvertierendes Short- und Long-Form-Video ausmacht und es als fertiges Produktionsdokument liefert.",
+  "author": {
+    "name": "Valentin Kolja Karlowski",
+    "email": "karlowskivalentin@gmail.com"
+  },
+  "keywords": ["content", "video", "social-media", "hooks", "storytelling", "short-form", "deutsch"],
+  "license": "MIT"
+}
