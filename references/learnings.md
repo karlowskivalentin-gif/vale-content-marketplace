@@ -89,8 +89,37 @@
 - Beobachtung:      Bei Faktenvideos erst recherchieren/verifizieren, dann den Hook-Claim festzurren —
                     der Hook darf nur versprechen, was der echte Fakt einlöst (sonst Comprehension-Loss
                     in der Validation). Beispiel: "30% zu viel" musste raus.
-- Status:           HYPOTHESE (n=1)
+- Status:           zu Prozess-Regel L2 hochgestuft (Learning 2), n=2 — als Arbeitsschritt in
+                    regisseur/story-architekt verankert.
 - Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
+### [2026-07-07] — H-neu-1: Streitbarer Profi-Tipp = Deussens Erfolgsmuster
+- Kanal:            Deussen
+- Format:           F02 / T01 (Experten-Interview)
+- Hook-Archetyp:    Investigator / Contrarian
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Ein streitbarer Profi-Tipp scheint Deussens Erfolgsmuster zu sein (n=2, Bilk +
+                    Video 2 "Haus ohne Eigenkapital").
+- Status:           HYPOTHESE (n=2)
+- Quelle:           Learning 2
+
+### [2026-07-07] — H-neu-2: CTA als offene Meinungsfrage hebt Kommentarrate
+- Kanal:            Deussen
+- Format:           F02 / T01 (Experten-Interview)
+- Hook-Archetyp:    Investigator / Contrarian
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Ein CTA als offene Meinungsfrage hebt vermutlich die Kommentarrate.
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 2
+
+### [2026-07-07] — H-neu-3: Interview-Format "Vale fragt, Experte antwortet"
+- Kanal:            Deussen
+- Format:           T01 (Experten-Interview)
+- Hook-Archetyp:    Investigator / Contrarian
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Das Interview-Format "Vale fragt, Experte antwortet" funktioniert für Deussen.
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 2
 
 ---
 
@@ -105,3 +134,10 @@
 - Hook-Archetyp:    Investigator
 - Status:           noch nicht gepostet, keine Zahlen
 - Notiz:            Erstes Video komplett durch das content-team-Plugin (Variante A). Quelle: Learning 1.
+
+### [2026-07-07] — Haus ohne Eigenkapital (Interview)
+- Kanal:            Deussen
+- Format:           T01 Experten-Interview (Vale fragt, Experte antwortet)
+- Hook-Archetyp:    Investigator / Contrarian
+- Status:           geplant, noch nicht gepostet, keine Zahlen
+- Notiz:            Zweites Deussen-Video, Interview-Format. Quelle: Learning 2.

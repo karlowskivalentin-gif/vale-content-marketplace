@@ -151,3 +151,13 @@ Template · Geeignet für (Kanäle) · Status/Datum.**
 > - Geeignet für:
 > - Status: TREND (ungetestet) · YYYY-MM-DD  [Quelle/Beispiel-Videos die Vale nannte]
 > ```
+
+### T01 — Experten-Interview (Vale fragt, Experte antwortet)
+- **Was:** Interviewer stellt eine Frage, die selbst schon der Hook ist; der Experte liefert den Payoff.
+- **Warum es zieht (Ladder-Mapping):** Die Frage erzeugt Autorität/Social Proof (Stimulation +
+  Captivation), die Antwort ist der Payoff der Dopamine Ladder (Anticipation → Validation).
+- **Hook-Archetypen:** Investigator / Contrarian — über die Frage.
+- **Struktur-Template:** Frage-Hook → Payoff-Start → Denkfehler → Profi-Move → Zuspitzung/Comment-Bait
+  → CTA als offene Frage.
+- **Geeignet für:** Deussen, Personal Brand.
+- **Status:** TREND (ungetestet) · 2026-07-07  [Quelle: Learning 2 / Video 2]

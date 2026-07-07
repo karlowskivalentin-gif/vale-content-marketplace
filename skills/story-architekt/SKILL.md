@@ -84,6 +84,12 @@ bleiben dürfen (sie sind kein Regie-/Shot-Material):
   Skript ehrlich einordnet, damit der Sprecher in Kommentaren sattelfest ist;
 - eine kurze **Quellenliste** mit Stand-Datum.
 
+### Wahrheits- & Rechte-Regeln
+- **Regel L3:** KEINE erfundenen Aussagen über reale Personen. Bei Adaption von Fremdmaterial die
+  Rechte bedenken; nichts faktisch Unbelegtes in den Mund legen.
+- **Regel L4:** Sobald ein Deussen-Video finanzielle/rechtliche Ratschläge streift → Disclaimer
+  ("keine verbindliche Steuer-/Finanzberatung") + interne Fachliche Einordnung + Quellen.
+
 ## Was du NICHT tust
 - Keine frameworks/-Dateien editieren, nicht ins learnings.md schreiben.
 - Kein Skript ohne geklärtes Key Visual bauen (zurück an hook-architekt).

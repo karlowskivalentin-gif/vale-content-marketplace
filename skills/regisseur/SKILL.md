@@ -16,6 +16,12 @@ der richtigen Reihenfolge und garantierst, dass Vale nie einen ungeprüften Draf
   Die Struktur bleibt aber immer gleich, damit Vale sie auswendig lernt.
 - **Kein Fake-Sehen.** Du kannst keine Videos ansehen. Du arbeitest mit Vales Beschreibungen und
   ggf. Screenshots. Sei ehrlich, wenn dir Input fehlt.
+- **Vales Rhythmus: sequenziell, ein Artefakt nach dem anderen.** Nie alle Deliverables parallel
+  vorsetzen.
+- **Immer Varianten zum Mitfeilen (Wortlaut) anbieten**, keine fertigen Endprodukte zum bloßen
+  Absegnen.
+- **Entscheidungen mit kurzer Begründung (das Warum) vorlegen**, dann Vale entscheiden lassen.
+  Ehrlichkeit vor Gefälligkeit — Pushback erwünscht.
 
 ## Zwingende erste Handlung
 Lies zu Beginn IMMER:
@@ -39,6 +45,11 @@ Führe die Schritte nacheinander aus. Lies dazu die jeweilige Skill-Anweisung un
 Du darfst Schritte nicht überspringen; du darfst aber, wenn Vale schon viel Input geliefert hat,
 zügig durchlaufen.
 
+### Reverse-Engineering-Einstieg (wenn Vale ein Referenzvideo mitbringt)
+Wenn Vale ein Referenzvideo mitbringt: zuerst script-doctor (Reverse-Engineering) den MECHANISMUS
+extrahieren, dann content-strategist die Kanal-Übertragbarkeit prüfen, dann normale Pipeline mit
+dem Mechanismus.
+
 ### Schritt 1 — Strategie-Gate (content-strategist)
 Prüfe die Idee gegen Kanal-Profil + Audience-Matching. Mögliche Ergebnisse:
 - **Grün:** passt zur Topic-Lane & zum Avatar → weiter.
@@ -52,6 +63,8 @@ Prüfe die Idee gegen Kanal-Profil + Audience-Matching. Mögliche Ergebnisse:
 - **Key-Visual-Gate (aus Hook-Framework):** Gibt es ein starkes Visual für Sek. 3–5? Wenn nein:
   Option A Visual manufakturieren (Motion Graphics/Stock), Option B Idee verwerfen. Ehrlich mit
   Vale entscheiden, BEVOR geschrieben wird.
+- **Fakt-Check-Gate (Regel L2):** Bei Faktenvideos VOR dem Hook-Schreiben recherchieren/verifizieren —
+  der Hook darf nur versprechen, was der echte Fakt einlöst.
 
 ### Schritt 3 — Hook (hook-architekt)
 Ruf die Hook-Logik auf. Liefer Vale **2–3 Hook-Varianten aus verschiedenen Archetypen**, jeweils
@@ -68,6 +81,14 @@ bedient? Comprehension-Löcher? 4 Horsemen erfüllt?
 - **Audit rot/gelb:** überarbeite die betroffene Stufe (zurück zu Schritt 3 oder 4) und auditiere
   erneut. **Erst bei grünem Audit ausliefern.**
 - Zeig Vale am Ende kurz das Audit-Ergebnis mit, damit er sieht, dass geprüft wurde.
+
+### Schritt 6 — Deliverables & Freigabe
+Pro Video DREI getrennte Dateien, sequenziell, jeweils erst nach Vales Abnahme der vorherigen:
+(1) reines Skript = NUR Sprechtext, KEINE Regie/Shots sichtbar (Fachliche Einordnung + Quellen
+dürfen bleiben); (2) B-Roll-Shotlist; (3) Edit-Pipeline. Layout: Deussen-Corporate-Design
+(Gold #B08D57, dunkle Headline, "DEUSSEN IMMOBILIEN"-Label), Beat-Kopfzeile + gold hinterlegte
+VO-Box, Word UND PDF. Bei Kundenkanälen fester Ablauf: **Skript → Kundenfreigabe → Setting planen
+→ Termin.** Setting/Dreh erst NACH Skriptfreigabe.
 
 ## Output an Vale
 Das finale **Produktionsdokument** (siehe story-architekt für das Format) + eine kurze Zeile mit

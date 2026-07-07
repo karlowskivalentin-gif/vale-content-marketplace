@@ -41,6 +41,8 @@ Gib zu JEDEM Punkt Grün/Gelb/Rot + 1 Satz Befund:
 - **4 Horsemen:** Relevanz / nicht-offensichtlich+umsetzbar / Absorption / kurze Distanz?
 - **Comprehension-Löcher:** wo würde der Viewer aussteigen/nicht verstehen?
 - **CTA:** passt er zum Conversion-Ziel des Kanals, ohne die Retention zu killen?
+- **Wahrheits-Check (L3):** unbelegte Behauptungen über reale Personen?
+- **Disclaimer-Check (L4):** finanzielle/rechtliche Ratschläge ohne Disclaimer?
 
 ### Urteil
 - **Grün gesamt:** freigeben.
@@ -70,6 +72,8 @@ Zerlege das Video entlang der Frameworks:
 - Welche **4 Horsemen** erfüllt es?
 - **Kernlehre:** Was genau ist übertragbar auf Vales Kanäle — und was ist unkopierbar (z.B.
   Promi-Faktor, Zufall)?
+- **Mechanismus weiterreichen:** Die extrahierten Mechanismen an den content-strategist zur Prüfung
+  der Kanal-Übertragbarkeit weitergeben, bevor die normale Pipeline damit weiterläuft.
 
 ### Optional: neues Trend-Format anlegen
 Wenn Vale das Video als Vertreter eines **neuen Formats** analysieren lässt: erstelle einen Eintrag

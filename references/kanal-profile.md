@@ -22,12 +22,16 @@
   erklärt", mehr "Regisseur erzählt". **Tonalitäts-Anker:** So einfach, dass der dümmste
   Hauptschüler es versteht, aber trotzdem professionell im Klang. Fachbegriffe immer in konkrete
   Alltagsbilder übersetzen.
-- **Deliverable-Regeln:** Pro Video drei getrennte Dateien (Skript / B-Roll-Shotlist / Edit-Pipeline);
-  "Skript" = ausschließlich Sprechtext (keine Regie/Shots); Corporate-Design-Layout wie in
-  story-architekt (Gold #B08D57, dunkle Headline, "DEUSSEN IMMOBILIEN"-Label, gold hinterlegte
+- **Deliverable-Regeln:** Pro Video drei getrennte Dateien (Skript / B-Roll-Shotlist / Edit-Pipeline),
+  **sequenziell**; "Skript" = ausschließlich Sprechtext (keine Regie/Shots); Corporate-Design-Layout
+  wie in story-architekt (Gold #B08D57, dunkle Headline, "DEUSSEN IMMOBILIEN"-Label, gold hinterlegte
   VO-Box); Word UND PDF.
+- **Prozess:** Skript → Kundenfreigabe → Setting → Termin. Setting/Dreh erst NACH Skriptfreigabe.
+- **Faktenvideos:** vor dem Hook recherchieren/verifizieren (L2); Disclaimer + Fachliche Einordnung +
+  Quellen Pflicht (L4); keine unbelegten Aussagen über reale Personen (L3).
 - **Fachliche Absicherung:** Pflicht bei jedem Faktenvideo — "Fachliche Einordnung" (nur für den
   Sprecher) plus Quellenliste mit Stand-Datum.
+- **Erfolgsmuster (Hypothese):** streitbarer Profi-Tipp + offene Meinungsfrage als CTA.
 - **Formate (Startset):** Property-Tour-mit-Story, Investigator-Reveal ("dieses Haus hat ein
   Geheimnis"), Vorher/Nachher, Cinematic Film, Expertise/Entertainment.
 - **Conversion-Ziel:** Sekundär. Reichweite & Markenaufbau zuerst; Leads als Nebenprodukt. NIE
