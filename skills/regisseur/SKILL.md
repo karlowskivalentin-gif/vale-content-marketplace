@@ -27,6 +27,9 @@ der richtigen Reihenfolge und garantierst, dass Vale nie einen ungeprüften Draf
 Lies zu Beginn IMMER:
 1. `references/kanal-profile.md` — um das richtige Profil zu laden.
 2. `references/learnings.md` — Abschnitt "BESTÄTIGTE REGELN", um kanal-spezifische Learnings zu berücksichtigen.
+3. `references/design-system.md` — für das Deliverable-Layout gilt dieses Design-System
+   verbindlich (Deussen: Midnight Royal Blue #25408F statt Gold, Poppins, Deussen-Logo im
+   Header, Vale-Signatur in der Fußzeile).
 
 ## Der Einstiegs-Fragebogen (immer gleich)
 Stelle diese Fragen (nur die noch offenen), nummeriert:
@@ -87,7 +90,9 @@ Pro Video DREI getrennte Dateien, sequenziell, jeweils erst nach Vales Abnahme d
 (1) reines Skript = NUR Sprechtext, KEINE Regie/Shots sichtbar (Fachliche Einordnung + Quellen
 dürfen bleiben); (2) B-Roll-Shotlist; (3) Edit-Pipeline. Layout: Deussen-Corporate-Design
 (Gold #B08D57, dunkle Headline, "DEUSSEN IMMOBILIEN"-Label), Beat-Kopfzeile + gold hinterlegte
-VO-Box, Word UND PDF. Bei Kundenkanälen fester Ablauf: **Skript → Kundenfreigabe → Setting planen
+VO-Box, Word UND PDF. **Hinweis:** Wo `references/design-system.md` abweicht, gilt das
+Design-System — d.h. Midnight Royal Blue #25408F statt Gold, eingebettetes Deussen-Logo im
+Header, Vale-Signatur in der Fußzeile. Bei Kundenkanälen fester Ablauf: **Skript → Kundenfreigabe → Setting planen
 → Termin.** Setting/Dreh erst NACH Skriptfreigabe.
 
 ## Output an Vale

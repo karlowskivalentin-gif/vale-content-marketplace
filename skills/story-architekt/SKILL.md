@@ -16,6 +16,10 @@ Lies IMMER:
 3. `references/format-bibliothek.md` — das Struktur-Template des gewählten Formats.
 4. `references/kanal-profile.md` — Tonalität + Conversion-Ziel des Kanals.
 5. `references/learnings.md` — bestätigte Regeln.
+6. `references/design-system.md` — verbindliches Design-System (Farben, Schrift, Logo, Layout).
+   Deussen-Deliverables IMMER danach bauen: Midnight Royal Blue #25408F (NICHT Gold), Poppins,
+   eingebettetes Deussen-Logo im Header, Vale-Signatur dezent in der Fußzeile (Co-Branding-Regel
+   "Deussen dominiert, Vale signiert").
 
 ## Fester Fragebogen (immer gleich, nur Offenes fragen)
 1. **Gewählte Hook?** (vom hook-architekt, oder Vale gibt eine vor)
@@ -72,6 +76,8 @@ Erzeuge pro Video IMMER **drei getrennte Deliverables**, niemals vermischt:
 3. **Separate Edit-Pipeline** — eigene Datei (Timeline für den Schnitt: Bild/Overlay/VO/Musik/SFX + Timing).
 
 ### Deliverable-Layout-Standard (Deussen Corporate Design)
+- **VORRANG-REGEL:** `references/design-system.md` ist verbindlich und ersetzt die folgenden
+  älteren Angaben, wo sie abweichen — insbesondere gilt Midnight Royal Blue #25408F statt Gold.
 - Gold-Akzent (#B08D57), dunkle Headline, dezentes "DEUSSEN IMMOBILIEN"-Label oben.
 - Beat-Struktur: pro Beat eine Kopfzeile (BEAT N · Phase · Timecode) + der Sprechtext in einer
   **gold hinterlegten Box** (fett, gut lesbar, teleprompter-tauglich).
