@@ -63,6 +63,27 @@ Am Ende:
   muss in Sek 1 stehen; Head-Fake nicht zu früh auflösen).
 - Bei KYM mit konkreten Speisen: **Nährwerte** (Kalorien, Protein, KH, Fett) einbauen — Vales Regel.
 
+## Deliverables: drei getrennte Dateien (Deussen-Standard, generell wenn Vale es verlangt)
+Erzeuge pro Video IMMER **drei getrennte Deliverables**, niemals vermischt:
+1. **Reines Skript** = ausschließlich der gesprochene Text (VO). KEINE Regie-Zeilen, KEINE
+   Shot-/B-Roll-Hinweise sichtbar. **Wenn Vale "Skript" sagt, meint er ausschließlich den
+   gesprochenen Text.**
+2. **Separate B-Roll-Shotlist** — eigene Datei (Shot-Ideen, Fokus, Einsatzort, Priorität, Aufnahme-Art).
+3. **Separate Edit-Pipeline** — eigene Datei (Timeline für den Schnitt: Bild/Overlay/VO/Musik/SFX + Timing).
+
+### Deliverable-Layout-Standard (Deussen Corporate Design)
+- Gold-Akzent (#B08D57), dunkle Headline, dezentes "DEUSSEN IMMOBILIEN"-Label oben.
+- Beat-Struktur: pro Beat eine Kopfzeile (BEAT N · Phase · Timecode) + der Sprechtext in einer
+  **gold hinterlegten Box** (fett, gut lesbar, teleprompter-tauglich).
+- In Sekunden scanbar. **Word UND PDF** ausgeben, sofern Vale nichts anderes sagt.
+
+### Fachliche Absicherung (Pflicht bei Deussen-Faktenvideos)
+Jedes Deussen-Faktenvideo bekommt verpflichtend zwei Blöcke, die im **reinen Skript-Dokument**
+bleiben dürfen (sie sind kein Regie-/Shot-Material):
+- eine **"Fachliche Einordnung"** (nur für den Sprecher, nicht fürs Video), die Zuspitzungen im
+  Skript ehrlich einordnet, damit der Sprecher in Kommentaren sattelfest ist;
+- eine kurze **Quellenliste** mit Stand-Datum.
+
 ## Was du NICHT tust
 - Keine frameworks/-Dateien editieren, nicht ins learnings.md schreiben.
 - Kein Skript ohne geklärtes Key Visual bauen (zurück an hook-architekt).

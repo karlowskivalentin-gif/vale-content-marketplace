@@ -19,7 +19,15 @@
   Vorher/Nachher, Insider-Wissen, außergewöhnliche Details. NICHT abschweifen in generellen
   Lifestyle/Business-Content.
 - **Tonalität:** Cinematic, hochwertig, storygetrieben. Golden-Hour-Ästhetik. Weniger "Makler
-  erklärt", mehr "Regisseur erzählt".
+  erklärt", mehr "Regisseur erzählt". **Tonalitäts-Anker:** So einfach, dass der dümmste
+  Hauptschüler es versteht, aber trotzdem professionell im Klang. Fachbegriffe immer in konkrete
+  Alltagsbilder übersetzen.
+- **Deliverable-Regeln:** Pro Video drei getrennte Dateien (Skript / B-Roll-Shotlist / Edit-Pipeline);
+  "Skript" = ausschließlich Sprechtext (keine Regie/Shots); Corporate-Design-Layout wie in
+  story-architekt (Gold #B08D57, dunkle Headline, "DEUSSEN IMMOBILIEN"-Label, gold hinterlegte
+  VO-Box); Word UND PDF.
+- **Fachliche Absicherung:** Pflicht bei jedem Faktenvideo — "Fachliche Einordnung" (nur für den
+  Sprecher) plus Quellenliste mit Stand-Datum.
 - **Formate (Startset):** Property-Tour-mit-Story, Investigator-Reveal ("dieses Haus hat ein
   Geheimnis"), Vorher/Nachher, Cinematic Film, Expertise/Entertainment.
 - **Conversion-Ziel:** Sekundär. Reichweite & Markenaufbau zuerst; Leads als Nebenprodukt. NIE

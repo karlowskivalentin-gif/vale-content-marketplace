@@ -38,9 +38,70 @@
 
 > Noch keine. Der performance-analyst hängt hier neue Beobachtungen an.
 
+### [2026-07-07] — H1: Deussen-Skripte gegen eigene Seriosität
+- Kanal:            Deussen
+- Format:           F02 (Investigator-Reveal)
+- Hook-Archetyp:    Investigator
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Deussen-Skripte müssen aktiv gegen ihre eigene Seriosität ankämpfen — kurze Sätze,
+                    konkrete Alltagsbilder, Mini-Cliffhanger pro Beat, sonst wird es "zu brav".
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
+### [2026-07-07] — H2: Tonalitäts-Anker "dümmster Hauptschüler"
+- Kanal:            Deussen
+- Format:           F02 (Investigator-Reveal)
+- Hook-Archetyp:    Investigator
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Ziel-Ton "dümmster Hauptschüler versteht's, klingt trotzdem professionell";
+                    Fachbegriffe konsequent in Bilder übersetzen ("aufteilen und teurer verkaufen"
+                    statt "in Eigentumswohnungen umwandeln").
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
+### [2026-07-07] — H3: Pattern-Interrupt "klingt langweilig, ich erklär's kurz"
+- Kanal:            Deussen
+- Format:           F02 (Investigator-Reveal)
+- Hook-Archetyp:    Investigator
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Die Einwand-Erwartung des Zuschauers ("trockenes Amtsthema") aktiv aufgreifen und
+                    sofort entschärfen, dann mit Stakes neu aufladen. Wiederverwendbar bei
+                    trockenen/behördlichen Themen.
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
+### [2026-07-07] — H4: Lokaler Weckruf als Text-Overlay statt gesprochen
+- Kanal:            Deussen
+- Format:           F02 (Investigator-Reveal)
+- Hook-Archetyp:    Investigator
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Ortsbezug ("Düsseldorfer, aufgepasst" / "Bilk") als Text-Overlay im Hook, nicht
+                    im Spoken Hook — hält den gesprochenen Kontrast schnell, Targeting läuft visuell
+                    parallel; zugleich Comment-Trigger #4 (bekannter Ort).
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
+### [2026-07-07] — H5: Erst verifizieren, dann Hook-Claim festzurren
+- Kanal:            Deussen
+- Format:           F02 (Investigator-Reveal)
+- Hook-Archetyp:    Investigator
+- Zahlen:           Views [ ] · Retention@3s [ ] · Completion [ ] · Saves [ ] · Comments [ ] · Shares [ ]
+- Beobachtung:      Bei Faktenvideos erst recherchieren/verifizieren, dann den Hook-Claim festzurren —
+                    der Hook darf nur versprechen, was der echte Fakt einlöst (sonst Comprehension-Loss
+                    in der Validation). Beispiel: "30% zu viel" musste raus.
+- Status:           HYPOTHESE (n=1)
+- Quelle:           Learning 1 — Video Bilk Milieuschutz (noch nicht gepostet)
+
 ---
 
 ## LOG (chronologisch, roh)
 
 > Jeder einzelne Video-Input landet hier chronologisch, auch wenn er (noch) keine Hypothese formt.
 > Noch leer.
+
+### [2026-07-07] — Bilk Milieuschutz
+- Kanal:            Deussen
+- Format:           F02 Investigator-Reveal + Magician
+- Hook-Archetyp:    Investigator
+- Status:           noch nicht gepostet, keine Zahlen
+- Notiz:            Erstes Video komplett durch das content-team-Plugin (Variante A). Quelle: Learning 1.
